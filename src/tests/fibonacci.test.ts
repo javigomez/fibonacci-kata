@@ -7,5 +7,8 @@ describe('fibonacci', () => {
 	it('second time returns 1', () => {
 		expect(fibonacci(1)).toBe(1)
 	})
+	it('third time returns 1', () => {
+		expect(fibonacci(2)).toBe(1)
+	})
 })
 
