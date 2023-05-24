@@ -1,3 +1,3 @@
-export function fibonacci() {
-    return null
+export function fibonacci(n:number): number {
+    return 0
 }
